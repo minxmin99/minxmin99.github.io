@@ -411,7 +411,7 @@
 		display: inline-block;
 		margin-bottom: 0.50em;
 		padding: 0.20em 1em;
-		background: #e97874;
+		background: #ffbfea; /*#e97874;*/
 		font-size: 3.5em;
 	}
 	
@@ -475,7 +475,7 @@
 	
 	#menu .current_page_item a
 	{
-		background: #e97874;
+		background: #ffbfea;/*#e97874;*/
 		color: #FFF;
 	}
 	
@@ -499,7 +499,7 @@
 
 	#wrapper2
 	{
-		background: #e97874;
+		background: #ffbfea;/*#e97874;*/
 	}
 
 	#wrapper3
@@ -681,7 +681,7 @@
 		display: inline-block;
 		margin-bottom: 10px;
 		padding: 20px;
-		background: #e97874;
+		background: #ffbfea;/*#e97874;*/
 	}
 	
 /*********************************************************************************/
@@ -715,7 +715,7 @@
 	width: 150px;
 	height: 150px;
 	border-radius: 100px;
-	border: 6px solid #e97874;
+	border: 6px solid #ffbfea;/*#e97874;*/
 	text-align: center;
 	color: #FFF;
 	
