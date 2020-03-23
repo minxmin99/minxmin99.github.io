@@ -388,7 +388,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		/*background: #8DCB89 url(images/header.jpg) no-repeat center;*/
+		background: #8DCB89 url(images/header.jpg) no-repeat center;
 		background-size: cover;
 	}
 
@@ -411,7 +411,6 @@
 		display: inline-block;
 		margin-bottom: 0.50em;
 		padding: 0.20em 1em;
-		background: #e97874;
 		font-size: 3.5em;
 	}
 	
